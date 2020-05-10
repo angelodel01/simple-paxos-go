@@ -9,7 +9,7 @@ $ go run paxos.go
 ```
 while logated in the base directory with axis to the "paxos.go" file
 
-***UNDERSTANDING LOGS***
+##UNDERSTANDING LOGS
 The 3 type of roles that nodes can assume declare themselves as they log updates.
 
 **Proposer**
